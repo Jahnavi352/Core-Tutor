@@ -1,0 +1,18 @@
+<html>
+<head>
+<body style="background-image: url('https://t4.ftcdn.net/jpg/04/45/70/71/360_F_445707107_elptpcI7pUDPa9kMdnX9e3506QdHfo7r.jpg'); background-size: cover; background-position: center; font-family: Arial, sans-serif; margin: 0; padding: 0;">
+    <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+        <form method ="get" action=file:"C:\Users\hp\Downloads\new login.html">
+            <center>
+                <label for="Register" style="font-size: 18px; color: white;">email:</label><br>
+                <input type="text" name="Register" style="font-size: 16px; color: #555;"><br>
+                <label for="username" style="font-size: 18px; color: white;">Username:</label><br>
+                <input type="text" name="username" style="font-size: 16px; color: #555;"><br>
+                <label for="passs" style="font-size: 18px; color: white;">Password:</label><br>
+                <input type="password" name="passs" style="font-size: 16px; color: #555;"><br>
+                <input type="submit" value="SignUp" style="font-size: 16px; background-color: #007bff; color: #fff; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer;"><br>
+</center>
+</form>
+</body>
+</head>
+</html>
