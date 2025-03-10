@@ -1,0 +1,25 @@
+<script>
+   // JavaScript to handle icon clicks
+   const menuBtn = document.getElementById('menu-btn');
+   const searchBtn = document.getElementById('search-btn');
+   const userBtn = document.getElementById('user-btn');
+   const toggleBtn = document.getElementById('toggle-btn');
+
+   menuBtn.addEventListener('click', function() {
+      // Code to toggle menu
+   });
+
+   searchBtn.addEventListener('click', function() {
+      // Code to toggle search bar
+      const searchForm = document.querySelector('.search-form');
+      searchForm.classList.toggle('hidden');
+   });
+
+   userBtn.addEventListener('click', function() {
+      // Code to toggle user panel
+   });
+
+   toggleBtn.addEventListener('click', function() {
+      // Code to toggle dark mode
+   });
+</script>
